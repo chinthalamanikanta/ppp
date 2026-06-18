@@ -25,6 +25,8 @@ HOME_PAGE = """
 <body>
     <h1>Welcome to My Flask App</h1>
     <p>This is the home page.</p>
+
+    <h6>hi manikanta</h6>
 </body>
 </html>
 """
